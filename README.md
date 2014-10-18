@@ -19,10 +19,7 @@ around them in ways I think may actually exercise one's problem solving skills.
 Here I will list some problems I've encountered solving the problems using
 LOLCODE and how I solved them.
 
-#### 1, 2, 3
-Nothing particular to note.
-
-#### 4
+#### Problem 4
 In normal programming languages the absolutely easiest way to check if an
 integer is a palindrome is to get its string representation and check that the
 string is the same in either direction.
