@@ -1,4 +1,4 @@
-### FUCKS
+## FUCKS
 
 ### WAT IS TIS????
 [Project Euler](https://projecteuler.net) PROBS SOLVED USIN LOLCODE
