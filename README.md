@@ -12,9 +12,10 @@ SEE FO URSELF
 
 ## Seriously
 This started as a "fun" way to lose time, but I've since found out
-solving the problems using the restricted capabilities of LOLCODE (particularly
-no arrays, no useful string functions, no exponentiation ...) forces you to work
-around them in ways I think may actually exercise one's problem solving skills.
+solving the problems using the restricted capabilities of strict LOLCODE 1.2
+(particularly no arrays, no useful string functions, no exponentiation ...)
+forces you to work around them in ways I think may actually exercise
+one's problem solving skills.
 
 Here I will list some problems I've encountered solving the problems using
 LOLCODE and how I solved them.
