@@ -16,6 +16,8 @@ solving the problems using the restricted capabilities of strict LOLCODE 1.2
 (particularly no arrays, no useful string functions, no exponentiation ...)
 forces you to work around them in ways I think may actually exercise
 one's problem solving skills.
+NOTE: some of the solutions use LOLCODE 1.3 because it would be reaaaaally hard
+to solve their problems without, at least, arrays.
 
 Here I will list some problems I've encountered solving the problems using
 LOLCODE and how I solved them.
