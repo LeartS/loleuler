@@ -19,15 +19,26 @@ HAI 1.3
         IM OUTTA YR LOOOP
     IM OUTTA YR LOOP
 
+    I HAS A WAYS
+    I HAS A COINVALUE
     IM IN YR LOOP UPPIN YR ROW WILE DIFFRINT ROW 8
         IM IN YR LOOOP UPPIN YR COL WILE DIFFRINT COL 201
-            IM IN YR LOOOOP UPPIN YR COIN WILE DIFFRINT COIN 8
-                N = DIFF OF COL AMOUNT
-                MEMORY'Z SRS ROW'Z SRS COL R SUM OF MEMORY'Z SRS ROW'Z SRS COL...
-                                                    
-            BOTH SAEM BIGGR OF COL COINZ'Z SRS ROW COL, O RLY?
+            WAYS R 0
+            IM IN YR LOOOOP UPPIN YR COIN WILE DIFFRINT COIN SUM OF ROW 1
+                COINVALUE R COINZ'Z SRS COIN
+                BOTH SAEM COINVALUE COL, O RLY?
                 YA RLY
+                    WAYS R SUM OF WAYS 1
+                MEBBE BOTH SAEM BIGGR OF COINVALUE COL COL
+                    WAYS R SUM OF...
+                               WAYS...
+                               MEMORY'Z SRS SUM OF COIN 0'Z SRS DIFF OF COL COINVALUE
+                OIC
+            IM OUTTA YR LOOOOP
+            MEMORY'Z SRS SUM OF ROW 0'Z SRS SUM OF COL 0 R WAYS
+        IM OUTTA YR LOOOP
+    IM OUTTA YR LOOP
 
-    
+    VISIBLE MEMORY'Z SRS 7'Z SRS 200
 
 KTHXBYE
